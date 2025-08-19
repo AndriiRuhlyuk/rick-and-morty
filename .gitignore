@@ -2,4 +2,4 @@
 .DS_store
 **__pycache__
 .idea
-db.sqlite3
+.env
