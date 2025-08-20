@@ -1,7 +1,6 @@
 import requests
 from django.db import IntegrityError
 
-import characters
 from characters.models import Character
 from django.conf import settings
 
